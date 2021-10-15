@@ -22,4 +22,4 @@ Coming soon
 ## About me
 - Love exercising (Tennis 🎾 - Swimming 🏊🏻‍♂️ - Cross fit 🏋🏻)
 - Gaming 🎮
-- Watching movie 🍿 (have recently watched `Squid Game`)
+- Watching movie 🍿 (have recently watched [Squid game](https://www.netflix.com/ca/title/81040344) )
