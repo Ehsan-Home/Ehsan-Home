@@ -16,7 +16,7 @@ Coming soon
 - Software management 
 
 ## How to reach me
-- 📧 ehsan.ghasaei@gmail.com
+- ehsan.ghasaei@gmail.com
 
 
 ## About me
