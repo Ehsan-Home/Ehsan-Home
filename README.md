@@ -3,12 +3,15 @@
 
 ```java
 I'am Ehsan 🙋🏻‍♂️.
-I am a Master student in Software engineering @University of Victoria.
-I am also a software developer at @4MBiotech.
+Master student in Software engineering @University of Victoria.
+Also, a software developer at @4MBiotech.
 ```
 
 ## My CV
-Coming soon
+Coming soon...
+
+## Currently working on
+- Android development
 
 ## Working area
 - Android & iOS development
