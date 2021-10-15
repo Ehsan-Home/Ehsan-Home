@@ -2,7 +2,7 @@
 
 
 ```java
-I'am Ehsan 🙋🏻‍♂️.
+Ehsan (He/His) 🙋🏻‍♂️.
 Master student in Software engineering @University of Victoria.
 Also, a software developer at @4MBiotech.
 ```
