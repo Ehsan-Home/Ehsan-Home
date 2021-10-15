@@ -2,9 +2,11 @@
 
 
 ```java
-Ehsan (He/His) 🙋🏻‍♂️.
-Master student in Software engineering @ University of Victoria.
-Also, a software developer at @ 4MBiotech.
+public void getMyInfo() {
+  String name="Ehsan"
+  String education="Master student in Software engineering @ University of Victoria"
+  String job="software developer at @ 4MBiotech".
+}
 ```
 
 ## My CV
