@@ -3,8 +3,8 @@
 
 ```java
 Ehsan (He/His) 🙋🏻‍♂️.
-Master student in Software engineering @University of Victoria.
-Also, a software developer at @4MBiotech.
+Master student in Software engineering @ University of Victoria.
+Also, a software developer at @ 4MBiotech.
 ```
 
 ## My CV
