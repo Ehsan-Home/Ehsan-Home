@@ -12,6 +12,9 @@ public void getMyInfo() {
 ## My CV
 Coming soon...
 
+## Awards
+[Google Kick Start](https://drive.google.com/drive/folders/1-WDfTrKdeS5txlgpGLZ69qo_k5MYqWEG?usp=sharing)
+
 ## Currently working on
 - Android development
 
