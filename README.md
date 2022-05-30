@@ -5,7 +5,7 @@
 public void getMyInfo() {
   String name="Ehsan"
   String education="Master student in Software engineering @ University of Victoria"
-  String job="software developer at @ 4MBiotech".
+  String Ex-job="software developer at @ 4MBiotech".
 }
 ```
 
