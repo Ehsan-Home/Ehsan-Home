@@ -34,4 +34,4 @@ Reach me by email (ehsan.ghasaei@gmail.com) and I will send back my resume. 👋
 - Love exercising (Tennis 🎾 - Swimming 🏊🏻‍♂️ - Cross fit 🏋🏻)
 - LEGO building 🧱
 - Gaming 🎮
-- Watching movie 🍿 (currently watching [Mentalist]([https://www.netflix.com/ca/title/81040344](https://www.google.com/search?client=safari&rls=en&q=mentalist&ie=UTF-8&oe=UTF-8)) )
+- Watching movie 🍿 (currently watching [Mentalist](https://www.imdb.com/title/tt1196946/) )
