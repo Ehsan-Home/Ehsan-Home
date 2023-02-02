@@ -18,12 +18,13 @@ Reach me by email (ehsan.ghasaei@gmail.com) and I will send back my resume. 👋
 - [Blockchain](https://drive.google.com/drive/folders/1DSL5XUcFDdJJrc1_vYBg7NWe9MtVS9KR)
 
 ## Currently working on
+- Tailwind CSS
 - GraphQL
 - System design
 
 ## Working area
 - Web (full-stack) development
-- Android & iOS development
+- Blockchain research & development
 - Software management 
 
 ## How to reach me
