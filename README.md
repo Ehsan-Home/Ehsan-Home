@@ -25,7 +25,7 @@ Reach me by email (ehsan.ghasaei@gmail.com) and I will send back my resume. 👋
 - [Linkedin](https://www.linkedin.com/in/ehsanghasaei/)
 
 ## About me
-- Love exercising (Tennis 🎾 - Swimming 🏊🏻‍♂️ - Cross fit 🏋🏻)
+- Love exercising (Walking 🚶🏻 - Tennis 🎾 - Swimming 🏊🏻‍♂️ - Cross fit 🏋🏻)
 - LEGO building 🧱
 - Gaming 🎮
 - Watching movie 🍿 (currently watching [The Last of Us](https://www.imdb.com/title/tt3581920/) )
