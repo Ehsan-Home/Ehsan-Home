@@ -4,7 +4,7 @@
 function getMyInfo(){
   let name="Ehsan"
   let education="Graduated🥳 Master student in Software engineering @ University of Victoria"
-  let ex-job="software developer at @ 4MBiotech".
+  let experience="3 years of experience in web, mobile, and blockchain development".
 }
 ```
 
