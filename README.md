@@ -8,15 +8,15 @@ function getMyInfo(){
 }
 ```
 
-## Resume
+## Resume 🗞️
 Reach me by email (ehsan.ghasaei@gmail.com) and I will send back my resume. 👋🏻
 
-## Currently working on
+## Currently working on 👔
 - Front end web development 
 - Blockchain research & development
 - Landing my dream job 👨🏻‍💼
 
-## Working area
+## Working area 🛞
 - Web (full-stack) development
 - Blockchain research & development
 - Software management 
