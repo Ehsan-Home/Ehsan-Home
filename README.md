@@ -21,7 +21,7 @@ Reach me by email (ehsan.ghasaei@gmail.com) and I will send back my resume. 👋
 - Blockchain research & development
 - Software management 
 
-## How to reach me
+## How to reach me 📪
 - ehsan.ghasaei@gmail.com
 
 ## Links
