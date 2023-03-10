@@ -24,7 +24,7 @@ Reach me by email (ehsan.ghasaei@gmail.com) and I will send back my resume. 👋
 ## How to reach me 📪
 - ehsan.ghasaei@gmail.com
 
-## Links
+## Links 🔗
 - [Linkedin](https://www.linkedin.com/in/ehsanghasaei/)
 - [StackOverflow](https://stackoverflow.com/users/13002861/ehsan-ghasaei)
 
