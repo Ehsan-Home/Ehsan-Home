@@ -28,7 +28,7 @@ Reach me by email (ehsan.ghasaei@gmail.com) and I will send back my resume. 👋
 - [Linkedin](https://www.linkedin.com/in/ehsanghasaei/)
 - [StackOverflow](https://stackoverflow.com/users/13002861/ehsan-ghasaei)
 
-## About me
+## About me 🕶️
 - Love exercising (Walking 🚶🏻 - Tennis 🎾 - Swimming 🏊🏻‍♂️ - Cross fit 🏋🏻)
 - LEGO building 🧱
 - Gaming 🎮
