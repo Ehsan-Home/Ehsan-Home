@@ -31,5 +31,5 @@ Reach me by email (ehsan.ghasaei@gmail.com) and I will send back my resume. 👋
 ## About me 🕶️
 - Love exercising (Walking 🚶🏻 - Tennis 🎾 - Swimming 🏊🏻‍♂️ - Cross fit 🏋🏻)
 - LEGO building 🧱
-- Gaming 🎮
+- Gaming (Currently playing Resident Evil 4 - Remake) 🎮
 - Watching movie 🍿 (currently watching [The Last of Us](https://www.imdb.com/title/tt3581920/) )
