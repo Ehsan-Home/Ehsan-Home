@@ -1,32 +1,24 @@
-### Hi there 👋🏻🏓
+### Ehsan Ghasaei
 
-```JavaScript
-function getMyInfo(){
-  let name="Ehsan"
-  let education="Graduated🥳 Master student in Software engineering @ University of Victoria"
-  let experience="3 years of experience in web, mobile, and blockchain development".
-}
-```
+- Graduated 🥳 Master student in Software engineering @ [University of Victoria](https://www.uvic.ca/).
+- Professional software developer in web, blockchain, and mobile development ([Resume](https://drive.google.com/file/d/1iSIL2uy0p9Ughc0m9EQemyz2O_utv-_J/view?usp=drive_link)).
 
-## Resume 🗞️
-Reach me by email (ehsan.ghasaei@gmail.com) and I will send back my resume. 👋🏻
-
-## Currently working on 👔
+### Currently working
 - Front end web development 
 - Blockchain research & development
-- Landing my dream job 👨🏻‍💼
 
-## Working area 🛞
+### Working area
 - Web (full-stack) development
 - Blockchain research & development
 - Software management 
 
-## How to reach me 📪
+### How to reach me
 - ehsan.ghasaei@gmail.com
 
-## Links 🔗
+### Links
 - [Linkedin](https://www.linkedin.com/in/ehsanghasaei/)
 - [StackOverflow](https://stackoverflow.com/users/13002861/ehsan-ghasaei)
+- [Website](https://ehsanghasaei.netlify.app/)
 
 ## About me 🕶️
 - Love exercising (Walking 🚶🏻 - Tennis 🎾 - Swimming 🏊🏻‍♂️ - Cross fit 🏋🏻)
