@@ -18,7 +18,7 @@
 ### Links
 - [Linkedin](https://www.linkedin.com/in/ehsanghasaei/)
 - [StackOverflow](https://stackoverflow.com/users/13002861/ehsan-ghasaei)
-- [Website](https://ehsanghasaei.netlify.app/)
+- [Website](https://ehsanghasaei.vercel.app/)
 
 ### About me 🕶️
 - Love exercising (Walking 🚶🏻 - Tennis 🎾 - Swimming 🏊🏻‍♂️ - Cross fit 🏋🏻)
